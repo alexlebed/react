@@ -1,0 +1,21 @@
+{
+  "name": "reacr_demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Aleksey Lebedyanskiy <gurzuf4u@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2",
+    "babel": "^5.8.38"
+  }
+}
