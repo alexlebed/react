@@ -16,6 +16,8 @@
   ],
   "dependencies": {
     "react": "^15.3.2",
-    "babel": "^5.8.38"
+    "babel": "^5.8.38",
+    "react-bootstrap": "^0.30.5",
+    "bootstrap": "^3.3.7"
   }
 }
